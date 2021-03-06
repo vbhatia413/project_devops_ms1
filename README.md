@@ -1,5 +1,5 @@
 
-[![vbhatia413](https://circleci.com/github/vbhatia413/project_devops_ms1.svg?style=svg)](https://app.circleci.com/pipelines/github/vbhatia413/project_devops_ms1)
+[![vbhatia413](https://circleci.com/gh/vbhatia413/project_devops_ms1.svg?style=svg)](https://app.circleci.com/pipelines/github/vbhatia413/project_devops_ms1)
 
 ## Project Overview
 
