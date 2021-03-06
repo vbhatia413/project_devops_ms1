@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+
+[![vbhatia413](https://circleci.com/github/vbhatia413/project_devops_ms1.svg?style=svg)](https://app.circleci.com/pipelines/github/vbhatia413/project_devops_ms1)
 
 ## Project Overview
 
